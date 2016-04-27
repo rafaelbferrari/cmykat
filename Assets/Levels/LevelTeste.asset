@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3007a8733d1fa9f4aba03ce063677331, type: 3}
+  m_Name: LevelTeste
+  m_EditorClassIdentifier: 
+  m_boardSize: {x: 8, y: 8}
+  m_timeToSelectPiece: 0
+  m_automaticPieceSelection: 1
+  m_keyRule: 0
+  m_boardSlotPrefab: {fileID: 161000, guid: a42d6307832f18e43b668bc8ad674991, type: 2}
